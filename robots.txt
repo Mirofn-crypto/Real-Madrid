@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mirofn-crypto.github.io/Real-Madrid/sitemap.xml
